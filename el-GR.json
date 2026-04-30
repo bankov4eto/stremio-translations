@@ -549,7 +549,7 @@
 	"GAMEPAD_LABEL_SEEK_VOL": "Μεταπήδηση & Ένταση (Player)",
 	"GAMEPAD_LABEL_PLAY_PAUSE_PLAYER": "Αναπαραγωγή / Παύση στο Player",
 	"GAMEPAD_LABEL_NOT_USED": "Δεν χρησιμοποιείται",
-	"GAMEPAD_LABEL_COMPAT": "Συμβατό με χειριστήρια PlayStation, Xbox και γενικής χρήσης"
+	"GAMEPAD_LABEL_COMPAT": "Συμβατό με χειριστήρια PlayStation, Xbox και γενικής χρήσης",
 	"SETTINGS_CLOSE_WINDOW": "Κλείσιμο εφαρμογής όταν κλείνει το παράθυρο",
 	"SETTINGS_SUBTITLES_AUTO_SELECT": "Αυτόματη επιλογή υποτίτλων",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Προεπιλεγμένη γλώσσα υποτίτλων",
